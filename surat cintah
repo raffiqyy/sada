@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>dear wida</title>
+    <link href="flower.css" rel="stylesheet" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="letter">
+        <h1>
+          I hope i remind you of the color yellow. the color of sunsets and
+          sunrise as new spring beginings come and go. the color of summer sand
+          as it courses throught your sun kissed fingers. the color of the
+          autumn leaves as they crunch beneath your boots. the color of city
+          lights illuminating the snowy winter streets. the color of clarity and
+          of loyalty. i hope i remind you of the color yellow, because that's
+          the color that reminds me of you. your smile is as beutiful as rose,
+          and i hope you can alwys smilee. I LOVED YOU
+        </h1>
+      </div>
+      <div class="rose">
+        <div class="petal"></div>
+        <div class="petal"></div>
+        <div class="petal"></div>
+        <div class="petal"></div>
+        <div class="petal"></div>
+      </div>
+      <div class="leaf">
+        <div class="stem"></div>
+        <div class="leafs"></div>
+        <div class="leafs"></div>
+      </div>
+    </div>
+  </body>
+</html>
